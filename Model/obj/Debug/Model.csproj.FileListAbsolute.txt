@@ -1,0 +1,5 @@
+F:\MyProject\VipSoft\Model\bin\Debug\VipSoft.Model.dll
+F:\MyProject\VipSoft\Model\bin\Debug\VipSoft.Model.pdb
+F:\MyProject\VipSoft\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProject\VipSoft\Model\obj\Debug\VipSoft.Model.dll
+F:\MyProject\VipSoft\Model\obj\Debug\VipSoft.Model.pdb

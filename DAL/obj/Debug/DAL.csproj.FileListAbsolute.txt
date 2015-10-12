@@ -1,0 +1,11 @@
+F:\MyProject\VipSoft\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.DAL.dll
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.DAL.pdb
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.Common.dll
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.DBUtility.dll
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.Model.dll
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.Common.pdb
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.DBUtility.pdb
+F:\MyProject\VipSoft\DAL\bin\Debug\VipSoft.Model.pdb
+F:\MyProject\VipSoft\DAL\obj\Debug\VipSoft.DAL.dll
+F:\MyProject\VipSoft\DAL\obj\Debug\VipSoft.DAL.pdb

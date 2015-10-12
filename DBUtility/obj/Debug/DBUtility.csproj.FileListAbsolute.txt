@@ -1,0 +1,5 @@
+F:\MyProject\VipSoft\DBUtility\bin\Debug\VipSoft.DBUtility.dll
+F:\MyProject\VipSoft\DBUtility\bin\Debug\VipSoft.DBUtility.pdb
+F:\MyProject\VipSoft\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProject\VipSoft\DBUtility\obj\Debug\VipSoft.DBUtility.dll
+F:\MyProject\VipSoft\DBUtility\obj\Debug\VipSoft.DBUtility.pdb

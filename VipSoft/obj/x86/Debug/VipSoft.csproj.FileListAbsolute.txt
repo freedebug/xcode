@@ -1,0 +1,11 @@
+F:\MyProject\VipSoft\VipSoft\bin\Debug\VipSoft.exe
+F:\MyProject\VipSoft\VipSoft\bin\Debug\VipSoft.pdb
+F:\MyProject\VipSoft\VipSoft\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MyProject\VipSoft\VipSoft\obj\x86\Debug\VipSoft.Properties.Resources.resources
+F:\MyProject\VipSoft\VipSoft\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\MyProject\VipSoft\VipSoft\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\MyProject\VipSoft\VipSoft\obj\x86\Debug\VipSoft.exe
+F:\MyProject\VipSoft\VipSoft\obj\x86\Debug\VipSoft.pdb
+F:\MyProject\VipSoft\VipSoft\bin\Debug\AlSkin.dll
+F:\MyProject\VipSoft\VipSoft\bin\Debug\AlSkin.pdb
+F:\MyProject\VipSoft\VipSoft\obj\x86\Debug\VipSoft.Login.resources
